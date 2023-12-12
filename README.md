@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on [Tracer Study SMK Negeri 2 Padang Panjang](tracerstudysmekdapadapa.my.id)
 
-- 👨‍💻 All of my projects are available at [sydalfhi.github.io/all](sydalfhi.github.io/all)
+- 👨‍💻 All of my projects are available at [sydalfhi.github.io/all](https://sydalfhi.github.io/all)
 
 - 💬 Ask me about **react, tailwindcss**
 
