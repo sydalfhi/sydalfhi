@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Syaid Alfarishi</h1>
-<h3 align="center">A passionate frontend developer from Indoneis</h3>
+<h3 align="center">A passionate frontend developer from West Sumatra ,Indonesia </h3>
 
 - 🌱 I’m currently learning **React & Next Js**
 
