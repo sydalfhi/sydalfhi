@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React & Next Js**
 
-- 👯 I’m looking to collaborate on [Tracer Study SMK Negeri 2 Padang Panjang](tracerstudysmekdapadapa.my.id)
+- 👯 I’m looking to collaborate on [Tracer Study SMK Negeri 2 Padang Panjang](https://tracerstudysmekdapadapa.my.id)
 
 - 👨‍💻 All of my projects are available at [sydalfhi.github.io/all](https://sydalfhi.github.io/all)
 
