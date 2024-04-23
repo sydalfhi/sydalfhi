@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React Js & Next Js**
 
-- 👨‍💻 All of my projects are available at [https://sydalfhi.github.io/all](https://sydalfhi.github.io/all)
+- 👨‍💻 All of my projects are available at [https://syaidalfarishi.vercel.app/gallery](https://syaidalfarishi.vercel.app/gallery)
 
 - 💬 Ask me about **ReactJs,NextJs, tailwindCSS, GSAP,**
 
