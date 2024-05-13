@@ -2,13 +2,13 @@
 <h3 align="center">A passionate frontend developer from West Sumatra, Indonesia</h3>
 <img src="https://media.licdn.com/dms/image/D4E12AQGWZAOnLDRaQw/article-cover_image-shrink_600_2000/0/1656679844338?e=2147483647&v=beta&t=LXuiCyZghSphTvRRmE7VHke8tY9dUz1o6NTErlbbItQ" alt="programmer gif" width="60%" height="auto" style="display:block; margin:0 auto;" />
 
-- 🔭 I’m currently working on [Tracer Study SMK Negeri 2 Padang Panjang](https://tracerstudysmekdapadapa.my.id)
+- 🔭 I’m currently working on [PT. Profaskes Softech Indonesia]([https://tracerstudysmekdapadapa.my.id](https://profaskes.id))
 
-- 🌱 I’m currently learning **React Js & Next Js**
+- 🌱 I’m currently learning **Next Js , Laravel, Yii **
 
 - 👨‍💻 All of my projects are available at [https://syaidalfarishi.vercel.app/gallery](https://syaidalfarishi.vercel.app/gallery)
 
-- 💬 Ask me about **ReactJs,NextJs, tailwindCSS, GSAP,**
+- 💬 Ask me about **ReactJs,NextJs, tailwindCSS, Laravel, Yii**
 
 - ⚡ Fun fact **I enjoy picking up new skills, particularly in the area of computer technology. I'm also gregarious, creative, and cooperative.**
 
