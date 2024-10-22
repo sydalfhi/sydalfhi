@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on [PT. Profaskes Softech Indonesia]([https://tracerstudysmekdapadapa.my.id](https://profaskes.id))
 
-- 🌱 I’m currently learning **Next Js , Laravel, Yii **
+- 🌱 I’m currently learning **Next Js , Flutter **
 
-- 👨‍💻 All of my projects are available at [https://syaidalfarishi.vercel.app/gallery](https://syaidalfarishi.vercel.app/gallery)
+- 👨‍💻 My Portfolio and project avaliable at [https://syaidalfarishi.vercel.app/](https://syaidalfarishi.vercel.app/)
 
 - 💬 Ask me about **ReactJs,NextJs, tailwindCSS, Laravel, Yii**
 
