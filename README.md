@@ -1,24 +1,105 @@
-<h1 align="center">Hi 👋, I'm Syaid Alfarishi</h1>
-<h3 align="center">A passionate Fullsatck web developer from West Sumatra, Indonesia</h3>
-<img src="https://media.licdn.com/dms/image/D4E12AQGWZAOnLDRaQw/article-cover_image-shrink_600_2000/0/1656679844338?e=2147483647&v=beta&t=LXuiCyZghSphTvRRmE7VHke8tY9dUz1o6NTErlbbItQ" alt="programmer gif" width="60%" height="auto" style="display:block; margin:0 auto;" />
+<div align="center">
 
-- 🔭 I’m currently working on [PT. Profaskes Softech Indonesia]([https://tracerstudysmekdapadapa.my.id](https://profaskes.id))
+# 👋 Hi, I'm Syaid Alfarishi
 
-- 🌱 I’m currently learning **Next Js , Flutter **
+### 🚀 Fullstack Web Developer | Web3 Enthusiast
+### 📍 West Sumatra, Indonesia
 
-- 👨‍💻 My Portfolio and project avaliable at [https://syaidalfarishi.vercel.app/](https://syaidalfarishi.vercel.app/)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Fullstack+Web+Developer;2.5%2B+Years+of+Experience;Laravel+%7C+Next.js+%7C+React;Web3+Explorer+%F0%9F%8C%90" alt="Typing SVG" />
 
-- 💬 Ask me about **ReactJs,NextJs, tailwindCSS, Laravel, Yii**
+<img src="https://media.licdn.com/dms/image/D4E12AQGWZAOnLDRaQw/article-cover_image-shrink_600_2000/0/1656679844338?e=2147483647&v=beta&t=LXuiCyZghSphTvRRmE7VHke8tY9dUz1o6NTErlbbItQ" width="55%" style="border-radius: 12px;" />
 
-- ⚡ Fun fact **I enjoy picking up new skills, particularly in the area of computer technology. I'm also gregarious, creative, and cooperative.**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/syalfrhiii_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="syalfrhiii_" height="30" width="40" /></a>
+---
+
+## 👨‍💻 About Me
+
+- 💼 Currently working as a **Fullstack Developer** at a Software House
+- 🕐 **2.5+ years** of professional experience as a programmer
+  - 📅 Jul 2023 – Jan 2024
+  - 📅 May 2024 – Present
+- 🌱 Currently leveling up in **Next.js**, **Flutter**, and **Web3 Development**
+- 🔗 Exploring the world of **Web3 & Blockchain**
+- ⚡ Fun fact: *I enjoy picking up new skills, especially in computer technology. I'm gregarious, creative, and cooperative.*
+
+---
+
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jquery.com/" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/0rV7TGT/jquery.png" alt="typescript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/pJSVM2W/logos-laravel.png" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-<img src="https://i.ibb.co/PMLmKdk/nextjs.png" alt="nextjs" width="40" height="40"/>
-</a> <a href="https://alpinejs.dev" target="_blank" rel="noreferrer">  <img src="https://i.ibb.co/N217FwN/alpinejs.png" alt="alpinejs" width="40" height="40"/> </a>  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a><a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Dart_programming_language_logo_icon.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://flutter.dev/multi-platform/web?gad_source=1&gclid=Cj0KCQjw99e4BhDiARIsAISE7P89lw6Z_VYdw-jzaEiDCKKxVtqQMQLbo22ZdEMF30olI-_Ov4rNaXIaAoRSEALw_wcB&gclsrc=aw.ds" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353751/flutter.svg" alt="typescript" width="40" height="40"/> </a><a href="https://www.yiiframework.com/" target="_blank" rel="noreferrer"> <img src="https://www.yiiframework.com/image/design/logo/yii3_sign.svg" alt="typescript" width="40" height="40"/> </a>
+### ⚙️ Backend
+<p>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Yii2-74B2E2?style=for-the-badge&logo=yii&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
+
+### 🧪 Testing & Tools
+<p>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+### 🌐 Web3 (Exploring)
+<p>
+  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=syaidalfarishi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syaidalfarishi&theme=tokyonight&hide_border=true" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syaidalfarishi&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+  <a href="https://syaidalfarishi.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/syalfrhiii_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://profaskes.id" target="_blank">
+    <img src="https://img.shields.io/badge/Company-0A66C2?style=for-the-badge&logo=globe&logoColor=white" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=syaidalfarishi&label=Profile+Views&color=6366F1&style=flat" alt="profile views" />
+  
+  *"Code is not just a job, it's a craft."* ✨
+</div>
