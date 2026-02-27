@@ -7,7 +7,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Fullstack+Web+Developer;2.5%2B+Years+of+Experience;Laravel+%7C+Next.js+%7C+React;Web3+Explorer+%F0%9F%8C%90" alt="Typing SVG" />
 
-<img src="https://media.licdn.com/dms/image/D4E12AQGWZAOnLDRaQw/article-cover_image-shrink_600_2000/0/1656679844338?e=2147483647&v=beta&t=LXuiCyZghSphTvRRmE7VHke8tY9dUz1o6NTErlbbItQ" width="55%" style="border-radius: 12px;" />
+
 
 </div>
 
@@ -72,13 +72,11 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sydalfhi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+ 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sydalfhi&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sydalfhi&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</div>
+
 
 ---
 
