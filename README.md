@@ -21,6 +21,7 @@
   - 📅 May 2024 – Present
 - 🌱 Currently leveling up in **Next.js**, **Flutter**, and **Web3 Development**
 - 🔗 Exploring the world of **Web3 & Blockchain**
+- 🤖 Comfortable working with **AI tools** as part of my daily development workflow
 - ⚡ Fun fact: *I enjoy picking up new skills, especially in computer technology. I'm gregarious, creative, and cooperative.*
 
 ---
@@ -49,6 +50,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 ### 🧪 Testing & Tools
@@ -57,6 +59,7 @@
   <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
@@ -99,5 +102,5 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=syaidalfarishi&label=Profile+Views&color=6366F1&style=flat" alt="profile views" />
   
-  *"Code is not just a job, it's a craft."* ✨
+  *"its not hard, its just new"* ✨
 </div>
