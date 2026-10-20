@@ -16,7 +16,7 @@
 ## 👨‍💻 About Me
 
 - 💼 Currently working as a **Fullstack Developer** at a Software House
-- 🕐 **2.5+ years** of professional experience as a programmer
+- 🕐 **3 years** of professional experience as a programmer
   - 📅 Jul 2023 – Jan 2024
   - 📅 May 2024 – Present
 - 🌱 Currently leveling up in **Next.js**, **Flutter**, and **Web3 Development**
