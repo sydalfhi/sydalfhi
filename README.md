@@ -5,7 +5,7 @@
 ### 🚀 Fullstack Web Developer | Web3 Enthusiast
 ### 📍 West Sumatra, Indonesia
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Fullstack+Web+Developer;2.5%2B+Years+of+Experience;Laravel+%7C+Next.js+%7C+React;Web3+Explorer+%F0%9F%8C%90" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Fullstack+Web+Developer;3%2B+Years+of+Experience;Laravel+%7C+Next.js+%7C+React;Web3+Explorer+%F0%9F%8C%90" alt="Typing SVG" />
 
 
 
