@@ -14,7 +14,7 @@
 ---
 
 ## 👨‍💻 About Me
-
+- 💻 Passionate about IT & Coding since the age of 14
 - 💼 Currently working as a **Fullstack Developer** at a Software House
 - 🕐 **3 years** of professional experience as a programmer
   - 📅 Jul 2023 – Jan 2024
